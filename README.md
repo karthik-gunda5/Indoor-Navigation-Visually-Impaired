@@ -26,5 +26,5 @@ to help visually impaired users navigate indoor spaces.
 Finalist at ACCS Challenge, IIIT Bengaluru.
 
 ## Documentation
-[Project Presentation]()
+[Project Presentation](Indoor_Navigatio_for Visually Impaired.pdf)
 
